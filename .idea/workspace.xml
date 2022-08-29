@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dddd5ced-6a41-449b-9457-2c25a2b6658e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Algo_Lab_A" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1jn87zLxg2klW4KMWbQokMR4Na6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Merge_Sort">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dfs.Main" />
+      <module name="Algo_Lab_A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Dfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Merge_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class_3.Merge_Sort" />
+      <module name="Algo_Lab_A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Prims_Algo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Graph.Prims_Algo" />
+      <module name="Algo_Lab_A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reverse_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class_1.Recursion.Reverse_Number" />
+      <module name="Algo_Lab_A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class_1.Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Reverse_String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice_Recursion.Reverse_String" />
+      <module name="Algo_Lab_A" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice_Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Merge_Sort" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Prims_Algo" />
+        <item itemvalue="Application.Reverse_Number" />
+        <item itemvalue="Application.Reverse_String" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dddd5ced-6a41-449b-9457-2c25a2b6658e" name="Default Changelist" comment="" />
+      <created>1604428331724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604428331724</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1641312422078">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1641312422078" />
+  </component>
+</project>
